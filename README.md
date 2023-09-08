@@ -24,6 +24,7 @@
 - :zap: In my free time, I love to code, work on personal projects, and contribute to open source.
 - :mailbox: How to reach me:     [![Vedant Kadam](https://img.shields.io/badge/-YOUR_NAME-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-kadam-17625b220)
 
+
  ---
 
 ### :hammer_and_wrench: Languages and Tools :
