@@ -26,13 +26,13 @@
  ---
 
 ### :technologist: About Me :
- - :telescope: I’m a 3rd year Computer Science and Engineering student at [Your University Name]
+ - :telescope: I’m a 3rd year Computer Science and Engineering student at SRMIST, KTR 
 
 - :seedling: Exploring the world of programming languages, with a focus on C, C++, and Python.
 
 - :zap: In my free time, I love to code, work on personal projects, and contribute to open source.
 
-- :mailbox: How to reach me:     [![Linkedin Badge](https://img.shields.io/badge/-YOUR_NAME-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+- :mailbox: How to reach me:     [![Linkedin Badge](https://img.shields.io/badge/-YOUR_NAME-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-kadam-17625b220)
 
  ---
 
@@ -44,7 +44,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+ 
 </div>
 
 
