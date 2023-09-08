@@ -22,7 +22,7 @@
  - :telescope: I’m a 3rd year Computer Science and Engineering student at SRMIST, KTR 
 - :seedling: Exploring the world of programming languages, with a focus on C, C++, and Python.
 - :zap: In my free time, I love to code, work on personal projects, and contribute to open source.
-- :mailbox: How to reach me:     [![Vedant Kadam](https://img.shields.io/badge/-YOUR_NAME-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-kadam-17625b220)
+- :mailbox: How to reach me:     [![Vedant Kadam](https://img.shields.io/badge/-Vedant Kadam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-kadam-17625b220)
 
 
  ---
