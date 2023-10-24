@@ -1,5 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
+  ## Animated Hello
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/vedant-kadam-17625b220">
